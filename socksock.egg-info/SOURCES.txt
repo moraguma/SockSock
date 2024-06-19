@@ -1,0 +1,12 @@
+LICENSE
+README.md
+setup.py
+socksock/__init__.py
+socksock/sock_client.py
+socksock/sock_server.py
+socksock.egg-info/PKG-INFO
+socksock.egg-info/SOURCES.txt
+socksock.egg-info/dependency_links.txt
+socksock.egg-info/top_level.txt
+socksock/examples/example_client.py
+socksock/examples/example_server.py

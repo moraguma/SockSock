@@ -8,7 +8,7 @@ setup(
     name='socksock',
     long_description=long_description,
     long_description_content_type='text/markdown',
-    version='0.3.4',    
+    version='0.1.0',    
     description='A Python library for plug & play RPC',
     url='https://github.com/moraguma/SockSock',
     author='Moraguma',

@@ -1,0 +1,19 @@
+Metadata-Version: 2.1
+Name: socksock
+Version: 0.1.0
+Summary: A Python library for plug & play RPC
+Home-page: https://github.com/moraguma/SockSock
+Author: Moraguma
+Author-email: g170603@dac.unicamp.br
+License: MIT
+Platform: UNKNOWN
+Classifier: Development Status :: 3 - Alpha
+Classifier: Intended Audience :: Science/Research
+Classifier: License :: OSI Approved :: MIT License
+Classifier: Operating System :: POSIX :: Linux
+Classifier: Programming Language :: Python
+Description-Content-Type: text/markdown
+License-File: LICENSE
+
+# SockSock
+
